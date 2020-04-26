@@ -24,5 +24,5 @@ Generate static files (no backend involved)
 npm run export
 ```
 
-And there you go !!!
+And you are good to go !!!
 
