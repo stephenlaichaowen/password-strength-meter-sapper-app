@@ -19,7 +19,7 @@ Start development
 npm run dev
 ```
 
-Generate production build (client side)
+Generate static files (no backend involved)
 ```
 npm run export
 ```
